@@ -1,0 +1,5 @@
+a=int(input("Enter the Value of a \n"))
+b=int(input("Enter the Value of b \n"))
+print("Value of a is \n",a)
+print("Value of b is \n",b)
+print("Value of a is \n",a," \n & \nValue of b is \n",b)
